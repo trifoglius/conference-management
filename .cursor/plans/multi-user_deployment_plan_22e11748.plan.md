@@ -10,19 +10,19 @@ todos:
     status: completed
   - id: context-refactor
     content: Refactor ConferenceContext from localStorage to API-backed mutations with optimistic updates
-    status: pending
+    status: completed
   - id: auth
     content: Add Auth.js login, middleware, /login page, and session-based route protection
-    status: pending
+    status: completed
   - id: role-ui
     content: Scope UI for chairs (single committee) vs admin (all committees + settings)
-    status: pending
+    status: completed
   - id: admin-users
     content: Build admin user management page to create/assign chair accounts
-    status: pending
+    status: completed
   - id: deploy
     content: Deploy to Vercel, connect Cloudflare DNS subdomain, seed bootstrap admin, smoke test
-    status: pending
+    status: in_progress
 isProject: false
 ---
 
