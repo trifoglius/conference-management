@@ -1,0 +1,119 @@
+PantherMUNC Awards
+
+PantherMUNC awards delegates for their performance in their committee. Each committee will have five awards:
+
+Best Delegate (BD)
+Outstanding Delegate (OD)
+Honorable Delegate (HD)
+Verbal Commendation (VC)
+Position Paper (PP)
+
+The BD, OD, HD, and VC awards are referred to as the best-in-committee awards (BICAs). BICAs are not mutually exclusive with the PP award.
+
+The purpose of these policies is to standardize the awarding process and ensure the fairness, transparency, and consistency of the conference and its proceedings. PantherMUNC is not a bureaucracy; in exceptional circumstances, the secretariat may interpret these policies in accordance with the intended spirit.
+
+This policy list goes into effect on its adoption date. After adoption, the policy list will be uploaded to the PantherMUNC website. These policies may be used or adapted by any other conference, but they must seek permission from the PantherMUNC secretariat.
+
+The Secretary-General (SG), Under Secretary-General (USG), Secretary of General Assemblies (SGA), Secretary of Crisis (SC), and Secretary of Analytics (SA), as well as the Chairs, Co-Chairs, Judges, and Position Paper Judges (PPJs), are expected to familiarize themselves with these policies. Delegates and faculty advisors are also welcome to learn these policies.
+
+1. Best-In-Committee Awards Scoring Outlines
+AP.1.1
+Each delegate is scored twice: by the judge and by the dais.
+
+AP.1.2
+Scorers must score according to the rubric. GA scores with the GA rubric as outlined in Appendix A and crisis rooms score with the crisis rubric as outlined in Appendix B. Scorers will use the scoring guidance in their respective appendices to aid in the scoring process.
+
+AP.1.3
+The two scorers (judge and dais) should score independently. They shall not discuss scores with each other until the conference’s conclusion.
+
+AP.1.4
+During the conference, the two scorers should not have access to the others’ scoresheet.
+
+AP.1.5
+At the conference’s beginning, the scorers will be provided a list of delegates who have not submitted position papers. This list will also be visible in the scoring spreadsheet (cf. AP.1.7).
+
+AP.1.6
+Ties on an individual scoresheet are okay to be submitted. If the composite scores have a tie, then the scorers must discuss this (cf. AP.1.10.2). 
+
+AP.1.7
+Each scorer’s scoresheet is inputted into an automated spreadsheet. The SA is responsible for managing this spreadsheet.
+
+AP.1.8
+The score used to determine awards is the composite score, which is the average of the two scores.
+
+AP.1.9
+In order to find discrepancies, the absolute difference is calculated by the scoring spreadsheet. 
+
+AP.1.10
+In the event of special circumstances, the scorers must meet to discuss them. This meeting must result in a resolution of the issue. Special circumstances include:
+An absolute difference that exceeds [TBD], which is resolved by discussing the rationale behind each scorer’s decision and bringing the scores to an acceptable difference.
+A tie in composite scores, which is resolved by either revising individual scores or adding one tiebreaker point in the composite score.
+
+AP.1.11
+The spreadsheet must automatically detect AP.1.10 special circumstances.
+
+2. Award Finalization Procedures
+AP.2.1
+Each scorer must approve the final composite scores by digitally “signing” the spreadsheet.
+
+AP.2.2
+In the event that the scores are not approved in time, the SG and relevant secretariat members will attempt to reach out to the scorers. If the attempts fail and the secretariat finds no AP.1.10 special circumstances, then the unapproved scores will be considered valid.
+
+AP.2.3
+The SG, USG, SGA, and SC, including any relevant volunteers, must convene before closing ceremonies to review awards and print out certificates.
+
+AP.2.4
+All award recipients will receive a certificate. This certificate will be printed on quality paper purchased beforehand.
+
+AP.2.5
+The certificates will be signed physically by the SG and Chair.
+
+AP.2.6
+The BD will receive a gavel. The gavel will be the same gavel that was used by the Chair during the conference.
+
+AP.2.7
+BD, OD, and HD awards are determined by score. BD is first place, or the delegate with the greatest score. OD is second place, or the delegate with the second-greatest score. HD is third place, or the delegate with the third-greatest score.
+
+AP.2.8
+The VC award is not based on score, but rather is chosen by the committee’s Chair based on overall contribution, diplomacy, and committee presence. The chosen delegate shall not already be a recipient of a BICA.
+
+3. Position Paper Judging
+AP.3.1
+The deadline for submitting eligible position papers (EPPs) is one week prior to the conference.
+
+AP.3.2
+Only EPPs may be judged. A late position paper (LPP) is not permitted to be judged except under extenuating circumstances as determined by the SG.
+
+AP.3.3
+A LPP may not be submitted after the start of the first committee session.
+
+AP.3.4
+In a GA room, a delegate must submit either an EPP or LPP in order to receive a top-3 BICA. Delegates who did not submit either may still be eligible for the VC.
+In a crisis room, a delegate shall not submit a position paper.
+In a specialized room, the Chair may decide whether or not to require position papers.
+This decision must be made at least 16 weeks before the conference, unless permitted by the SG.
+The decision must be clearly represented in the topic summary on the website and in the background guide.
+
+AP.3.5
+The submission of an LPP shall not influence the determination of a BICA.
+
+AP.3.6
+All PPJs must attend a mandatory pre-conference orientation on the rubric and grading procedures.
+
+AP.3.7
+The number of EPPs will be divided by the number of PPJs to determine how many EPPs a PPJ will read. Thus, each PPJ will read a roughly-equal number of EPPs. Leftovers will be assigned randomly.
+
+AP.3.8
+PPJs will judge according to the position paper rubric.
+
+AP.3.9
+Scores will be inputted into a spreadsheet. This spreadsheet will be separate from the AP.1.7 spreadsheet but will similarly be managed by the SA.
+
+AP.3.10
+The delegate with the greatest position paper score in their committee will be the recipient of the committee’s PP award.
+
+AP.3.11
+Scores must be completed and submitted 2 days before the conference.
+
+AP.3.12
+In the event of a tie, the EPPs will be submitted to the SGA, who will re-judge the papers in accordance with the rubric.

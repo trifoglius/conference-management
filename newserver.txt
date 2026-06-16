@@ -1,0 +1,3 @@
+cd "/Users/jpharris131/Desktop/Conference Management/panthermunc-command"
+npm install
+npm run dev
