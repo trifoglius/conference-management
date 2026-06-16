@@ -1,0 +1,9 @@
+git status
+git add .
+git commit -m "bug fixes"   
+git push origin main
+
+git status
+git add panthermunc-command
+git commit -m "Update panthermunc-command submodule"
+git push origin main
