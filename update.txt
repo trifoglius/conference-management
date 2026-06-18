@@ -1,9 +1,11 @@
+cd "/Users/jpharris131/Desktop/Conference Management/panthermunc-command"
 git status
-git add .
-git commit -m "bug fixes"   
+git add -A
+git commit -m "fix"
 git push origin main
 
-git status
+cd "/Users/jpharris131/Desktop/Conference Management"
+
 git add panthermunc-command
 git commit -m "Update panthermunc-command submodule"
 git push origin main
